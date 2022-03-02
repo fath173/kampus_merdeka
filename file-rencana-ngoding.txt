@@ -1,0 +1,4 @@
+RENCANA NGODING
+- Flutter
+- Vue JS
+- Sistem Tertanam
